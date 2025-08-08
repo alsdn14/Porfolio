@@ -1,4 +1,4 @@
-# 김민우 | QA Automation & Process Improvement
+# 김민우 | 게임 QA Automation & Process Improvement
 
 ## 📂 Contents
 1. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)  
