@@ -10,7 +10,7 @@
 3. [이슈 트래킹 자동화](https://github.com/alsdn14/Issuetracker)  
    Google 스프레드시트–GitLab API 연동으로 이슈 관리 자동화
 
-4. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)
+4. [AI 기반 체크리스트 자동 생성](https://github.com/alsdn14/AI_checklist)  
    Google Sheets + Gemini API 를 이용하여 명세기반 테스트 체크리스트 생성 자동화
 
 
