@@ -12,14 +12,14 @@
 
 3. [QA 통합 대시보드 — AI 체크리스트 자동 생성 · 데이터 검색 · 이슈 분석](https://github.com/alsdn14/QA_Dashboard)
    - GitLab 이슈 기반 QA 체크리스트 자동 생성, 데이터 검증, 테이블 검색 기능을 통합한 웹 대시보드    
-   - 로컬 AI 모델(Ollama)을 연동해 자연어로 이슈 조회 및 데이터 분석 가능   
-
-4. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
-   - OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴  
+   - 로컬 AI 모델(Ollama)을 연동해 자연어로 이슈 조회 및 데이터 분석 가능
   
-5. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)    
+4. [로그인 테스트 자동화](https://github.com/alsdn14/Login_test)    
    - Selenium 기반 웹 로그인 자동화 및 예외 처리 로직 구현 ( 개인 프로젝트 )  
 
+5. [밸런스 테스트 자동화](https://github.com/alsdn14/Autobalance)    
+   - OCR 기반 경험치·드랍률 측정, 치트 명령 자동 실행 GUI 툴  
+  
 ## 소개
 게임 QA 분야에서 **사원 → 리드 → 파트장**으로 성장하며,   
 라이브 서비스 품질 확보를 위한 다양한 테스트 프로세스를 수립하고 자동화 환경을 구축해왔습니다.    
